@@ -7,6 +7,7 @@ This project is just my profile Portfolio
 ## 🔗 Project Link
 
 [Figma](https://tinyurl.com/2p9xwcrr)
+
 [Website](https://jonathanwk-portfolio.netlify.app/)
 
 
